@@ -1,0 +1,1 @@
+This is a simple clock made with basic CSS and JS. This is project #2 of Wes Bos' JavaScript 30 course.
